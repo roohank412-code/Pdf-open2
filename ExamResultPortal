@@ -1,0 +1,11 @@
+ExamResultPortal/
+│
+├── index.html
+├── style.css
+├── script.js
+├── captcha.js
+├── result.pdf         <-- (Place your PDF here)
+├── README.md
+└── assets/
+      ├── logo.png     <-- (Optional: SVG fallback is built-in)
+      └── spinner.gif  <-- (Optional: CSS spinner is built-in)
